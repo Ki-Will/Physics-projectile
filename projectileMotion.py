@@ -44,6 +44,3 @@ def plot_projectile_motion():
 
 if __name__ == "__main__":
     plot_projectile_motion()
-plt.title("Projectile Motion of Water Stream")
-plt.grid(True)
-plt.show()
